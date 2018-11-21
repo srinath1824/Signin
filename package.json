@@ -1,0 +1,15 @@
+{
+  "name": "signin",
+  "version": "1.0.0",
+  "description": "Demo website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "deploy": "gcloud app deploy"
+  },
+  "author": "srinath",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
